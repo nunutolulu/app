@@ -1,3 +1,6 @@
+Vue框架学习的项目
+主要以Vue2为主
+
 # app
 
 ## Project setup
